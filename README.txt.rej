@@ -1,0 +1,11 @@
+diff a/README.txt b/README.txt	(rejected hunks)
+@@ -2,3 +3,7 @@
++<<<<<<< HEAD
+ 빡쳐
+ 그러지마아~
+-!!!!!
+\ No newline at end of file
++!!!!!
++=======
++으아아아아아아
++>>>>>>> 7b2be3ca0fbd08db17de546ce0e0ae425126f4a7
